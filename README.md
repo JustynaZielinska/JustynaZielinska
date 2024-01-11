@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello
 
-<!--
-**JustynaZielinska/JustynaZielinska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Angular enthusiast with 3+ years of commercial experience in front-end development,
+focused on providing solutions but attentive to details and constantly developing skills.
 
-Here are some ideas to get you started:
+## I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Angular :heart: (incl. latest 17th version, Angular Material, Angular Universal)
+- TypeScript, JavaScript (ES 6+), jQuery
+- RxJS, NgRx
+- HTML5, CSS3, SCSS
+- Bootstrap, Bulma
+- unit test (Jasmine)
+- e2e test (Protractor)
+
+:point_right: [my LinkedIn profile](https://www.linkedin.com/in/j-zielinska/)  - feel free to contact me!

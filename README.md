@@ -1,9 +1,9 @@
-## Hello
+### Hello
 
 I'm Angular enthusiast with 3+ years of commercial experience in front-end development,
 focused on providing solutions but attentive to details and constantly developing skills.
 
-## I work with:
+### I work with:
 
 - Angular :heart: (incl. latest 17th version, Angular Material, Angular Universal)
 - TypeScript, JavaScript (ES 6+), jQuery

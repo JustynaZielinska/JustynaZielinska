@@ -7,10 +7,11 @@ focused on providing solutions but attentive to details and constantly developin
 
 - Angular :heart: (incl. latest 17th version, Angular Material, Angular Universal)
 - TypeScript, JavaScript (ES 6+), jQuery
+- HTML5, CSS3, SCSS, SASS
 - RxJS, NgRx
-- HTML5, CSS3, SCSS
-- Bootstrap, Bulma
+- Vue (in progress), React (basics)
 - unit test (Jasmine)
 - e2e test (Protractor)
+- Bootstrap, Bulma
 
 :point_right: [my LinkedIn profile](https://www.linkedin.com/in/j-zielinska/)  - feel free to contact me!
